@@ -1,0 +1,15 @@
+{
+    "auto_restart": false,
+    "concurrency": 0,
+    "current_version": 9,
+    "dependencies": "log,PunycodeNodeJs",
+    "execution_timeout": 60,
+    "logging_enabled": "true",
+    "name": "TestPunycodeNodeJs",
+    "params": [
+        "{}"
+    ],
+    "permissions": {},
+    "run_user": "",
+    "source": "TestPunycodeNodeJs.js"
+}
