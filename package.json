@@ -1,14 +1,10 @@
 {
     "asset_types": [
-        "Code Libraries",
-        "Code Services",
-        "Devices",
-        "Edges",
-        "Roles",
-        "Users"
+        "Code Libraries"
     ],
     "author": {
-        "email": "corenodejs@clearblade.com"
+        "name":"Yash Jain",
+        "email": "yjain@clearblade.com"
     },
     "clouds": [],
     "description": "Partial Implementation of NodeJs' Punycode Library",
@@ -18,12 +14,27 @@
     "keywords": [
         "clearblade",
         "iot",
-        "platform"
+        "platform",
+        "node",
+        "js",
+        "core",
+        "library",
+        "punycode",
+        "encode",
+        "decode"
     ],
     "license": "MIT",
     "name": "PunycodeNodeJs",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashjain28/PunycodeNodeJs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yashjain28/PunycodeNodeJs/issues"
+  },
+  "homepage": "https://github.com/yashjain28/PunycodeNodeJs#readme",
+    "prog_lang": ["Javascript"],
     "private": false,
-    "prog_lang": [],
     "protocols": [],
     "things": [],
     "version": "1.0.0"
