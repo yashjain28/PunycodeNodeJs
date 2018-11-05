@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "Partial Implementation of NodeJs' Punycode Library",
+    "messaging_url": "messaging.clearblade.com:1883",
+    "name": "PunycodeNodeJs",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "c8f085be0b849fd3c9deb293a0ee01",
+    "system_secret": ""
+}
