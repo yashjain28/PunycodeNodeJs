@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Partial Implementation of NodeJs' Punycode Library",
+    "name": "PunycodeNodeJs",
+    "version": 3,
+    "visibility": "system"
+}
